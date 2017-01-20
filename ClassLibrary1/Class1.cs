@@ -3,6 +3,5 @@
     public class Class1
     {
         public string Haha => "Haha";
-
     }
 }
