@@ -1,0 +1,10 @@
+﻿{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Flurl.Http": "1.1.1",
+        "ClassLibrary1": "1.0.0"
+      }
+    }
+  }
+}
