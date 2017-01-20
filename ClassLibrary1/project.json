@@ -1,6 +1,10 @@
 ﻿{
   "version": "1.0.0-*",
 
+  "dependencies": {
+    "flurl.Http": "1.1.1"
+  },
+
   "frameworks": {
     "net46": {
     },
